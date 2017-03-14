@@ -1,0 +1,1 @@
+# Ficheiro de texto para iniciação git
